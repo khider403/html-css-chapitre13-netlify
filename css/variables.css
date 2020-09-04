@@ -1,0 +1,9 @@
+:root {
+  --font-family:'Mulish', sans-serif;
+  --light:#00c3ff;
+  --primary:hsl(216, 81%, 52%);
+  --dark:#2980b9;
+  --text:#333;
+  --background:#fafafa;
+  --hint:#999;
+  --border:#ddd; }
